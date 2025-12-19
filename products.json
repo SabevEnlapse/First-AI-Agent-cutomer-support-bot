@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p100",
+    "name": "NovaHeadphones X",
+    "price": 79.99,
+    "currency": "USD",
+    "features": ["Bluetooth 5.3", "Noise cancellation", "20h battery"],
+    "warranty_months": 12,
+    "in_stock": true
+  },
+  {
+    "id": "p200",
+    "name": "NovaWatch S",
+    "price": 129.0,
+    "currency": "USD",
+    "features": ["Heart rate", "Sleep tracking", "GPS"],
+    "warranty_months": 24,
+    "in_stock": false
+  }
+]
